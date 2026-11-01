@@ -6,7 +6,7 @@ I am a Computer Science and Engineering student at Adhi College of Engineering a
 <a href="https://linkedin.com/in/kanaga-prasath-balakumar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/kanaguGaming"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMScTSHLHLRQXmGVlSjldDdGVVbFzmQZFGCgqZLHsqRdsQZhdwCClWWMLstqPstppPDFjfk"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://mr-kg-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio"/></a> 
+<a href="https://kanaga-prasath.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio"/></a> 
 
 ---
 
